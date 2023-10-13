@@ -70,7 +70,7 @@ export default function cards() {
     {/* </Swiper> */}
 </div>
     <div className='video-card'>
-        <AiOutlinePlayCircle className='play-button'/>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9326.044496025184!2d76.65357222925317!3d30.517454570858366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390fc32344a6e2d7%3A0x81b346dee91799ca!2sChitkara%20University!5e0!3m2!1sen!2sin!4v1697178504348!5m2!1sen!2sin" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" className='map-frame'></iframe>
     </div>
     </>
   )
